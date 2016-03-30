@@ -1,2 +1,2 @@
 # goquicksort
-I wrote a go quick sort and didn't have the heart to delete it 
+Go code I dont want to delete
